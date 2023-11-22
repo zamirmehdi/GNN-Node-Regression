@@ -66,8 +66,7 @@ Implemented and fine-tuned four distinct Graph Neural Network (GNN) models—GCN
 Executed a comparative analysis to evaluate and compare the performance of GNN models and loss functions across multiple datasets.
 
 
-## Course Information
-- **Course**: Bachelor's Project
+## Project Information
 - **Supervisor**: Prof. Mostafa H. Chehreghani 
 - **University**: Amirkabir University of Technology (Tehran Polytechnic)
 - **Semester**: Spring 2023
