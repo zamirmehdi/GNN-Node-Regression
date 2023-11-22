@@ -49,7 +49,7 @@ Comparative Analysis of Graph Neural Networks for Node Regression on Wiki-Squirr
 
 <!-- ABOUT THE PROJECT -->
 
-## Projects Overview
+## Project Overview
 Bachelor's Research Project focused on node regression within graph structures.
 
 <h3> Dataset & Data preprocessing </h3>
