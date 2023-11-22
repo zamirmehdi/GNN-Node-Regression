@@ -67,7 +67,8 @@ Executed a comparative analysis to evaluate and compare the performance of GNN m
 
 
 ## Course Information
-- **Course**: Bachelor's Project 
+- **Course**: Bachelor's Project
+- **Supervisor**: Prof. Mostafa H. Chehreghani 
 - **University**: Amirkabir University of Technology (Tehran Polytechnic)
 - **Semester**: Spring 2023
 
