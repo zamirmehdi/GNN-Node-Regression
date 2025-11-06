@@ -451,6 +451,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+## 🔮 Future Work
+
+- [ ] Extend to other Wikipedia language editions
+- [ ] Implement additional GNN architectures (GAE, GraphTransformer)
+- [ ] Multi-task learning (regression + classification)
+- [ ] Temporal analysis of traffic patterns
+- [ ] Deployment as REST API for real-time predictions
+- [ ] Integration with Wikipedia API for live data
+
+---
 <!--
 ## 🙏 Acknowledgments
 
@@ -488,18 +499,6 @@ Questions or collaborations? Feel free to reach out!
 📧 Email: amzarrinnezhad@gmail.com  
 💬 Open an [Issue](https://github.com/zamirmehdi/GNN-Node-Regression/issues)  
 🌐 GitHub: [@zamirmehdi](https://github.com/zamirmehdi)
-
----
----
-
-## 🔮 Future Work
-
-- [ ] Extend to other Wikipedia language editions
-- [ ] Implement additional GNN architectures (GAE, GraphTransformer)
-- [ ] Multi-task learning (regression + classification)
-- [ ] Temporal analysis of traffic patterns
-- [ ] Deployment as REST API for real-time predictions
-- [ ] Integration with Wikipedia API for live data
 
 ---
 
